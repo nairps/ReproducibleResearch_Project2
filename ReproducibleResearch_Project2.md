@@ -13,7 +13,7 @@
         US](#weather-events-with-greatest-economic-consequences-across-the-us)
 -   [6. Conclusions](#conclusions)
 
-1. Abstract
+## 1. Abstract
 -----------
 
 Severe weather phenomena can disrupt public health and can also inflict
@@ -28,7 +28,7 @@ drought was identified to be the most harmful weather event in
 inflicting crop damages. These findings might be helpful to prepare
 better and prioritise resources for the future weather events.
 
-2. Objectives
+## 2. Objectives
 -------------
 
 The main goal of this analysis is to explore the U.S. National Oceanic
@@ -41,7 +41,7 @@ respect to population health across the Unites States and the weather
 events that have the greatest economic consequences across the Unites
 States.
 
-3. Materials (Data)
+## 3. Materials (Data)
 -------------------
 
 The data for this analysis is obtained as a compressed
@@ -55,7 +55,7 @@ includes the documented number of injuries, number of fatalities,
 estimates of crop damage and estimates of property damage associated
 with each weather event occurrence across the Unites States.
 
-4. Methods (Data Processing)
+## 4. Methods (Data Processing)
 ----------------------------
 
 The data file was downloaded using the provided link and saved with a
@@ -403,7 +403,7 @@ comments.
     ## 4 1e+06   1995
     ## 5 1e+09      9
 
-5. Results
+## 5. Results
 ----------
 
 ### 5.1 Weather events that are most harmful to population health
@@ -668,7 +668,7 @@ given in Table 3 below.    
 
 <script type="application/json" data-for="htmlwidget-360c258a368fc57b9bea">{"x":{"url":"tables/widget_unnamed-chunk-12.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
 <!--/html_preserve-->
-6. Conclusions
+## 6. Conclusions
 --------------
 
 Based on the exploratory analyses of the data from the Storms database,
